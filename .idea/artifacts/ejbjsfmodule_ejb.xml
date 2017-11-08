@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="ejbjsfmodule:ejb">
+    <output-path>$PROJECT_DIR$/ejbjsfmodule/target</output-path>
+    <root id="archive" name="ejb-jsf-module-1.0-SNAPSHOT.jar">
+      <element id="artifact" artifact-name="ejbjsfmodule:ejb exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webjsfmodule:war">
+    <output-path>$PROJECT_DIR$/webjsfmodule/target</output-path>
+    <root id="archive" name="web-jsf-module-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="webjsfmodule:war exploded" />
+    </root>
+  </artifact>
+</component>
